@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A%2C100:06B6D4&height=180&section=header&text=Hi%20there%2C%20I%27m%20Eshwar%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=45&fontFamily=JetBrains%20Mono&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Frontend+Developer+%40+FullStack+Developer;Final-Year+CSE+(AI+%26+ML)+Student;Building+things+on+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Frontend+Developer+%40+FullStack+Developer;CSE+(AI+%26+ML)+Student;Building+things+on+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -42,9 +42,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
